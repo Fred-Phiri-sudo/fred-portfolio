@@ -1,10 +1,6 @@
 {
   "name": "portfolio",
-<<<<<<< HEAD
   "homepage": "https://Fred-Phiri-sudo.github.io/fred-portfolio/",
-=======
-  "homepage": "https://Fred-Phiri-sudo.github.com/fred-portfolio",
->>>>>>> 7f60988dc1ff68ce83aa889b980b2fbebda1f211
   "version": "0.0.0",
   "type": "module",
   "scripts": {
