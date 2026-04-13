@@ -83,7 +83,7 @@ const tools: ToolsType[] = [
   },
   {
     label: 'React',
-    imgSrc: 'react.svg',
+    imgSrc: 'public/react.svg',
   },
   {
     label: 'JavaScript',
