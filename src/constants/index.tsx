@@ -63,35 +63,35 @@ const experience: ExperienceType[] = [
 const tools: ToolsType[] = [
   {
     label: 'Python',
-    imgSrc: '/python-com.svg',
+    imgSrc: '/public/python-com.svg',
   },
   {
     label: 'Grafana',
-    imgSrc: '/grafana-com.svg',
+    imgSrc: '/public/grafana-com.svg',
   },
     {
     label: 'Proxmox',
-    imgSrc: '/proxmox-com.svg',
+    imgSrc: '/public/proxmox-com.svg',
   },
   {
     label: 'CSS',
-    imgSrc: '/css3.svg',
+    imgSrc: '/public/css3.svg',
   },
   {
     label: 'Tailwind CSS',
-    imgSrc: '/tailwindcss.svg',
+    imgSrc: '/public/tailwindcss.svg',
   },
   {
     label: 'React',
-    imgSrc: '/react.svg',
+    imgSrc: '/public/react.svg',
   },
   {
     label: 'JavaScript',
-    imgSrc: '/javascript.svg',
+    imgSrc: '/public/javascript.svg',
   },
   {
     label: 'Node.js',
-    imgSrc: '/nodejs.svg',
+    imgSrc: '/public/nodejs.svg',
   }
 ];
 
