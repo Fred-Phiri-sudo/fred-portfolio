@@ -63,7 +63,7 @@ const experience: ExperienceType[] = [
 const tools: ToolsType[] = [
   {
     label: 'Python',
-    imgSrc: python-com.svg',
+    imgSrc: 'python-com.svg',
   },
   {
     label: 'Grafana',
