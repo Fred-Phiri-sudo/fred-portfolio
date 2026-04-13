@@ -33,7 +33,7 @@ export const Profile = () => {
                     <p className='text-lg capitalize'> Server Administration</p>
 
                     <p className='text-sm text-neutral-300 mt-5'>Contact: </p>
-                    <p className='text-lg '> fphiri@lakelandcollege.edu</p>
+                    <p className='text-lg '>-</p>
                 </div>
             
         </div>
